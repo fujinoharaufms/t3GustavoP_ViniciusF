@@ -1,4 +1,8 @@
 # t3GustavoP_ViniciusF
+# Recomendamos ler este README com a visualização de código, pois na visualização comum as linhas dos requisitos se juntam em um único parágrafo.
+# Esta opção fica no canto superior esquerdo, logo acima do texto do README.
+
+
 
 Gustavo Pinheiro Fujinohara ,Vinicius Feitosa Gonçalves
 Introdução: 
